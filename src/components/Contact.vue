@@ -20,7 +20,14 @@
             </p>
 
             <div class="contact-actions">
-              <a href="mailto:guptashivanshu274@gmail.com" class="btn hero-primary-btn">Email</a>
+              <a
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=guptashivanshu274@gmail.com&su=Portfolio%20Inquiry"
+                target="_blank"
+                rel="noreferrer"
+                class="btn hero-primary-btn"
+              >
+                Email
+              </a>
               <a href="https://github.com/Shivanshu-sg" class="btn hero-secondary-btn">GitHub</a>
               <a href="https://www.linkedin.com/in/shivanshu-gupta-ba5772284/" class="btn hero-secondary-btn">LinkedIn</a>
             </div>
