@@ -1,3 +1,7 @@
+<script setup>
+import profilePhoto from '../../public/profile_photo.jpeg'
+</script>
+
 <template>
   <section id="hero" class="hero-section">
     <div class="container hero-shell">
@@ -18,17 +22,6 @@
               <a href="Shivanshu-Resume.pdf" class="btn hero-primary-btn">Download CV</a>
               <a href="#projects" class="btn hero-secondary-btn">View Projects</a>
             </div>
-
-            <!-- <div class="hero-highlights">
-              <div class="hero-highlight">
-                <strong>AI-first</strong>
-                <span>LLMs, vision, and workflow automation</span>
-              </div>
-              <div class="hero-highlight">
-                <strong>Backend-ready</strong>
-                <span>FastAPI services and scalable APIs</span>
-              </div>
-            </div> -->
           </div>
         </div>
 
@@ -36,7 +29,7 @@
           <div class="hero-visual">
             <div class="hero-image-frame">
               <img
-                src="/profile_photo.jpeg"
+                :src="profilePhoto"
                 alt="Profile photo"
                 class="hero-image"
               />
