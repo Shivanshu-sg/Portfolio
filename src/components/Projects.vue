@@ -1,7 +1,7 @@
 <script setup>
 const projects = [
   {
-    title: "Genetic Disease AI Assistant",
+    title: "NeuroMate: Privacy-Preserving Genetic Disease AI Assistant",
     category: "AI Product",
     description:
       "A privacy-focused medical information assistant designed to make complex genetic disease knowledge easier for patients to understand.",
@@ -14,7 +14,7 @@ const projects = [
     tech: ["LLMs", "RAG", "FastAPI"],
     status: "In Progress",
     outcome: "Focused on making technical healthcare information easier to understand and navigate.",
-    ctaLabel: "Coming Soon",
+    ctaLabel: "View Details",
     ctaHref: "#"
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     status: "Completed",
     outcome: "Built to support faster identification of crop issues through image-based analysis.",
     ctaLabel: "View Details",
-    ctaHref: "#"
+    ctaHref: "https://github.com/Shivanshu-sg/NeuroMate"
   }
 ]
 </script>
