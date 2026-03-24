@@ -19,7 +19,7 @@ import profilePhoto from '../../public/profile_photo.jpeg'
             </p>
 
             <div class="hero-actions">
-              <a href="Shivanshu-Resume.pdf" class="btn hero-primary-btn">Download CV</a>
+              <a href="Shivanshu_Resume.pdf" class="btn hero-primary-btn">Download CV</a>
               <a href="#projects" class="btn hero-secondary-btn">View Projects</a>
             </div>
           </div>
