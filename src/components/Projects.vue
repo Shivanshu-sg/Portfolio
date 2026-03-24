@@ -15,7 +15,7 @@ const projects = [
     status: "In Progress",
     outcome: "Focused on making technical healthcare information easier to understand and navigate.",
     ctaLabel: "View Details",
-    ctaHref: "#"
+    ctaHref: "https://github.com/Shivanshu-sg/NeuroMate"
   },
   {
     title: "Crop Disease Prediction",
@@ -32,7 +32,7 @@ const projects = [
     status: "Completed",
     outcome: "Built to support faster identification of crop issues through image-based analysis.",
     ctaLabel: "View Details",
-    ctaHref: "https://github.com/Shivanshu-sg/NeuroMate"
+    ctaHref: "#"
   }
 ]
 </script>
